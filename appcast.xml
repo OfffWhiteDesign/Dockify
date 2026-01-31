@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Dockify</title>
+        <item>
+            <title>2.0</title>
+            <pubDate>Fri, 30 Jan 2026 20:41:03 -0700</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/OfffWhiteDesign/Dockify/releases/download/prod/Dockify.dmg" length="6271724" type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
