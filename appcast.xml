@@ -4,11 +4,11 @@
         <title>Dockify</title>
         <item>
             <title>2.0</title>
-            <pubDate>Fri, 30 Jan 2026 20:41:03 -0700</pubDate>
+            <pubDate>Sat, 07 Feb 2026 17:57:08 -0700</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/OfffWhiteDesign/Dockify/releases/download/prod/Dockify.dmg" length="6271724" type="application/octet-stream"/>
+            <enclosure url="https://github.com/OfffWhiteDesign/Dockify/releases/download/v2.0/Dockify.dmg" length="6415139" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
