@@ -3,12 +3,12 @@
     <channel>
         <title>Dockify</title>
         <item>
-            <title>2.0.2</title>
-            <pubDate>Sun, 08 Feb 2026 12:17:53 -0700</pubDate>
-            <sparkle:version>1.1</sparkle:version>
-            <sparkle:shortVersionString>2.0.2</sparkle:shortVersionString>
+            <title>2.0.3</title>
+            <pubDate>Fri, 13 Feb 2026 20:13:48 -0700</pubDate>
+            <sparkle:version>1.2</sparkle:version>
+            <sparkle:shortVersionString>2.0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/OfffWhiteDesign/Dockify/releases/download/v2.0.2/Dockify.dmg" length="6400179" type="application/octet-stream" sparkle:edSignature="vUItkRa0iIwdoZBKeOKARe1LZ7qxUHXMvcEzhngm+ef3euBFw4ISKSGeLodaYfhdq/5Vqhb7uSeeEwqw0GnoDA=="/>
+            <enclosure url="https://offfwhitedesign.github.io/Dockify/Dockify.dmg" length="6412089" type="application/octet-stream" sparkle:edSignature="LQN9GUs32ge0Thx+wr9w326QJRM79w3uY03pJGfjpDZGHZoaIIWEt2Z96n5WXu6Ly0mYezEtrX/EaOXPYzuPBg=="/>
         </item>
     </channel>
 </rss>
