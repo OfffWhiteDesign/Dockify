@@ -8,7 +8,7 @@
             <sparkle:version>1.2</sparkle:version>
             <sparkle:shortVersionString>2.0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://offfwhitedesign.github.io/Dockify/Dockify.dmg" length="6412089" type="application/octet-stream" sparkle:edSignature="LQN9GUs32ge0Thx+wr9w326QJRM79w3uY03pJGfjpDZGHZoaIIWEt2Z96n5WXu6Ly0mYezEtrX/EaOXPYzuPBg=="/>
+            <enclosure url="https://github.com/OfffWhiteDesign/Dockify/releases/download/v2.0.3/Dockify.dmg" length="6412089" type="application/octet-stream" sparkle:edSignature="LQN9GUs32ge0Thx+wr9w326QJRM79w3uY03pJGfjpDZGHZoaIIWEt2Z96n5WXu6Ly0mYezEtrX/EaOXPYzuPBg=="/>
         </item>
     </channel>
 </rss>
